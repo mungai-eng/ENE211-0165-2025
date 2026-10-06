@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1790711527 source:c:\users\admin\onedrive\documentos\cprogramming_structural\calculator project\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1791273843 source:c:\users\admin\onedrive\documentos\cprogramming_structural\simple calculator project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
